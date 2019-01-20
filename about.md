@@ -31,5 +31,5 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://www.markprvs.github.io/books-read-in-2019.markdown/">Books I've Read in 2019</a></li>
+	<li><a href="https://www.markprvs.github.io/books-read-in-2019/">Books I've Read in 2019</a></li>
 </ul>
