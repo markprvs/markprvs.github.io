@@ -31,5 +31,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
+	<li> This website! </li>
 	<li><a href="https://markprvs.github.io/books-read-in-2019/">Books I've Read in 2019</a></li>
+
 </ul>

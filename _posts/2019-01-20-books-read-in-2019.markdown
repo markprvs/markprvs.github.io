@@ -8,7 +8,7 @@ tag:
 - Books
 - Lists
 star: true
-category: blog
+category: projects
 author: markpurvis
 description: This is a list of all the books I have read (so far) in 2019
 ---
