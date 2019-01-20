@@ -35,11 +35,11 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-linkedin: mjpurvis
 twitter: markprvs
-instagram: Markprvs
 # google: mygoogle
+instagram: Markprvs
 # pinterest: mypinterest
+linkedin: mjpurvis
 # youtube: myyoutube
 spotify: 1260894284?si=XJK0n3ZuRweqSP6S22lG4Q
 # github: mygithub
@@ -51,12 +51,12 @@ spotify: 1260894284?si=XJK0n3ZuRweqSP6S22lG4Q
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-
+email: markpurvis29@gmail.com
 
 authors:
     markpurvis:
         name: Mark Purvis
-        bio: Politics Postgraduate and tech worker
+        bio: Politics grad and tech worker
         external-image: false
         picture: assets/images/Cropped.jpeg
         twitter: markprvs
@@ -71,7 +71,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-*projects*: true
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
