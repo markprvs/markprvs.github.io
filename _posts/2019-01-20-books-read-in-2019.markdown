@@ -33,6 +33,3 @@ externalLink: false
 <h3>To Read</h3>
 <ul class="to-read">
 </ul>
-
-	</ul>
-
