@@ -13,7 +13,7 @@ layout: page
 <h3>Proficiencies</h3>
 
 <ul class="skill-list">
-	<li><b>G-Suite</b> - Daily usage of Docs, Sheets, Slides</li>
+	<li><b>G-Suite</b> - Docs, Sheets, Slides</li>
 	<li><b>Google Analytics</b> - </li>
 	<li><b>Google AdSense</b> - Google Certified Publishing Partner NPM and MCM specialities c.2017 </li> 
 	<li><b>ZenDesk</b> - Customer Support</li>
@@ -31,7 +31,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
+	<li><a href="></a>"_posts/2019-01-20-books-read-in-2019.markdown">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
