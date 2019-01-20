@@ -3,7 +3,7 @@ name: Mark Purvis
 bio: London-based Politics M.A., currently working for a tech startup (digital publishing). This website exists to keep a digital record of my accomplishments and share ongoing projects.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: description
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: assets/images/Me.png
+url: https://markprvs.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
