@@ -10,17 +10,21 @@ layout: page
 
 <h2>Skills</h2>
 
-<h3>Admin</h3>
+<h3>Proficiencies</h3>
 
 <ul class="skill-list">
-	<li>G-Suite - Docs, Sheets, Slides</li>
-	<li>Google AdSense</li>
+	<li><b>G-Suite</b> - Daily usage of Docs, Sheets, Slides</li>
+	<li><b>Google AdSense</b> - Google Certified Publishing Partner NPM and MCM specialities c.2017 </li> 
+	<li><b>ZenDesk</b> - Customer Support</li>
+	<li><b>Asana</b> Project management (individual and collaborative)</li>
+	<li><b>Google Analytics</b></li>
 </ul>
 
-<h3>Analytical</h3>
+
+<h3>Business Development</h3>
 
 <ul class="skill-list">
-	<li>Google Analytics</li>
+	<li><b>Lead Generation</b> - Prospecting via Email, LinkedIn</li>
 </ul>
 
 
