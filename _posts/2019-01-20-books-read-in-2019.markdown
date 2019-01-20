@@ -8,7 +8,7 @@ headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description:
-category: project
+category: blog
 author: markpurvis
 externalLink: false
 ---
