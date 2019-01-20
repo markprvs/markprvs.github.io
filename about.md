@@ -14,10 +14,10 @@ layout: page
 
 <ul class="skill-list">
 	<li><b>G-Suite</b> - Daily usage of Docs, Sheets, Slides</li>
+	<li><b>Google Analytics</b> - </li>
 	<li><b>Google AdSense</b> - Google Certified Publishing Partner NPM and MCM specialities c.2017 </li> 
 	<li><b>ZenDesk</b> - Customer Support</li>
-	<li><b>Asana</b> Project management (individual and collaborative)</li>
-	<li><b>Google Analytics</b></li>
+	<li><b>Asana</b> - Project management (individual and collaborative)</li>
 </ul>
 
 
