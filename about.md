@@ -32,6 +32,4 @@ layout: page
 
 <ul>
 	<li><a href="https://www.markprvs.github.io/blog/books-read-in-2019.markdown/">Books I've Read in 2019</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
