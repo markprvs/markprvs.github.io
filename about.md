@@ -31,7 +31,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="_posts/books-read-in-2019.markdown/">Books I've Read in 2019</a></li>
+	<li><a href="https://www.markprvs.github.io/blog/books-read-in-2019.markdown/">Books I've Read in 2019</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
