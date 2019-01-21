@@ -1,5 +1,5 @@
 ---
-title: ":book: What I'm Reading 2019"
+title: ":book: What I'm Reading in 2019"
 layout: post
 date: 2019-01-20 22:10
 tag: Books
@@ -15,21 +15,22 @@ externalLink: false
 
 
 
-<h1>This is a list of books I have read (so far) in 2019.</h1>
+<h1>This is a list of books I have read (so far) in 2019 -and what I'm reading at the moment.</h1>
 
+<p> This is intended as a live document to be updatedly regularly. I usually have a few books on the go at the moment - it makes it easier to let go of books that are not gripping me, as well as cover a few different topics</p>
 
-<h2> This is a live document that will be updatedly regularly - You can find more books I've read on my GoodReads profile <a href="//www.goodreads.com/review/list/9918109"> here </a> </h2>.
-
-<h3>Reading</h3>
-<ul class="reading">
-	<li>The Establishment: And how they get away with it by Owen Jones</li>
-</ul>
 
 <h3>Read</h3>
 <ul class="read">
-	<li>Tunnel of Love - Football Fighting and Failure: Newcastle United After The Entertainers By Martin Hardy</li>
+	<li><a href="https://www.goodreads.com/book/show/33547365-tunnel-of-love">Tunnel of Love - Football Fighting and Failure: Newcastle United After The Entertainers</a> By Martin Hardy</li>
+</ul>
+
+<h3>Reading</h3>
+<ul class="reading">
+	<li><a href="https://www.goodreads.com/book/show/23120225-the-establishment">The Establishment: And how they get away with it</a> by Owen Jones</li>
+	<li><a href="https://www.goodreads.com/book/show/19936661-inverting-the-pyramid">Inverting the Pyramid: The History of Football Tactics</a> by Jonathan Wilson </li>
+	<li><a href="https://www.goodreads.com/book/show/35684687-live-work-work-work-die">Live Work Work Work Die: A Journey into the Savage Heart of Silicon Valley</a> by Corey Pein</li>
 </ul>
 
 <h3>To Read</h3>
-<ul class="to-read">
-</ul>
+<p> ...Maybe just check out my GoodReads profile <a href="//www.goodreads.com/review/list/9918109"> here </a> - always open to suggestions! </p>
