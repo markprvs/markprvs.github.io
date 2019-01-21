@@ -10,7 +10,7 @@ layout: page
 
 <h2>Skills</h2>
 
-<h3>Proficiencies</h3>
+<h3>Tools and Platforms</h3>
 
 <ul class="skill-list">
 	<li><b>G-Suite</b> - Docs, Sheets, Slides</li>
@@ -25,6 +25,7 @@ layout: page
 
 <ul class="skill-list">
 	<li><b>Lead Generation</b> - Prospecting via Email, LinkedIn</li>
+	L<li><b> Onboarding </b> - 
 </ul>
 
 
