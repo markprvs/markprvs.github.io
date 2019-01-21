@@ -35,9 +35,3 @@ layout: page
 	<li><a href="https://markprvs.github.io/books-read-in-2019/">Books I've Read in 2019</a></li>
 
 </ul>
-
-{% jekyllgram 6 %}
-<a href="{{ photo.link }}" title="{{ photo.caption.text }}">
-<img src="{{ photo.images.thumbnail.url }}"
-title="{{ photo.caption.text }}" /></a>
-{% endjekyllgram %}
