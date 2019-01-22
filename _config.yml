@@ -1,8 +1,6 @@
 # main text of home
 name: Mark Purvis
-bio: I work with people who run their own websites, so I decided to build my own.
-
-This website exists to keep a digital record of my accomplishments and share ongoing projects I'm working on.
+bio: <p>I work with people who run their own websites, so I decided to build my own.</p> <p>This website exists to keep a digital record of my accomplishments and share ongoing projects I'm working on.</p>
 
 # twitter summary info
 description: description
