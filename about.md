@@ -15,7 +15,7 @@ layout: page
 
 <ul class="skill-list">
 	<li><b>Lead Generation</b> - Prospecting via email, LinkedIn and my phone</li>
-	<li><b>HTML</b> - Elementary literacy :eyes:</li> 
+	<li><b>HTML</b> - Elementary literacy</li> 
 </ul>
 
 <h3>Tools and Platforms</h3>
