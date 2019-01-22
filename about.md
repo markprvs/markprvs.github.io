@@ -2,31 +2,31 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>London-based Politics M.A., currently working for a tech startup (digital publishing). This website exists to keep a digital record of my accomplishments and share ongoing projects.</p>
+<p> I work with digital publishers, providing them with access and support to sophisticated Artificial Intelligence tools.</p>
 
 <p></p>
 
 <h2>Skills</h2>
 
-<h3>Tools and Platforms</h3>
+<h3>Profiencies</h3>
 
+<ul class="skill-list">
+	<li><b>Lead Generation</b> - Prospecting via email, LinkedIn and my phone</li>
+	<li><b>HTML</b> - Elementary literacy :eyes:</li> 
+</ul>
+
+<h3>Tools and Platforms</h3>
 <ul class="skill-list">
 	<li><b>G-Suite</b> - Docs, Sheets, Slides</li>
 	<li><b>Google Analytics</b> - </li>
 	<li><b>Google AdSense</b> - Google Certified Publishing Partner NPM and MCM specialities c.2017 </li> 
-	<li><b>ZenDesk</b> - Customer Support</li>
-	<li><b>Asana</b> - Project management (individual and collaborative)</li>
+	<li><b>ZenDesk</b> - Customer Service and Support Ticket management</li>
+	<li><b>Asana</b> - Project management software for individuals and teams</li>
 </ul>
 
-
-<h3>Business Development</h3>
-
-<ul class="skill-list">
-	<li><b>Lead Generation</b> - Prospecting via Email, LinkedIn</li>
-	L<li><b> Onboarding </b> - 
-</ul>
 
 
 <h2>Projects</h2>
