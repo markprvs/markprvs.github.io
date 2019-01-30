@@ -20,9 +20,7 @@ layout: page
 <ul class="skill-list">
 	<li><b>G-Suite</b> - Docs, Sheets, Slides</li>
 	<li><b>Google Analytics</b> Advanced Google Analytics certification </li>
-	<li><b>Google AdSense</b> - Google Certified Publishing Partner NPM and MCM specialities c.2017 </li> 
-	#<li><b>ZenDesk</b> - Customer service and support ticket management</li>#
-	#<li><b>Asana</b> - Project management software for individuals and teams</li>#
+	<li><b>Google AdSense</b> - Google Certified Publishing Partner NPM and MCM specialities c.2017 </li>
 </ul>
 
 
