@@ -23,6 +23,7 @@ externalLink: false
 <h3>Read</h3>
 <ul class="read">
 	<li><a href="https://www.goodreads.com/book/show/33547365-tunnel-of-love">Tunnel of Love - Football Fighting and Failure: Newcastle United After The Entertainers</a> By Martin Hardy</li>
+	<li><a href="https://www.goodreads.com/book/show/6763725-capitalist-realism">Capitalist Realism: Is There No Alternative?</a> By Mark Fisher (for the second time) </li>
 </ul>
 
 <h3>Reading</h3>
