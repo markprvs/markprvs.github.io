@@ -9,7 +9,7 @@ layout: page
 
 <h2><div style="text-align: center">Skills</div></h2>
 
-<h3>Profiencies</h3>
+<h3>Proficiencies</h3>
 
 <ul class="skill-list">
 	<li><b>Lead Generation</b> - Prospecting via email, LinkedIn and my phone</li>
