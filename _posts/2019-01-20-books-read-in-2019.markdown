@@ -17,7 +17,7 @@ externalLink: false
 
 <h1>This is a list of books I have read (so far) in 2019 -and what I'm reading at the moment.</h1>
 
-<p> This is intended as a live document to be updatedly regularly. I usually have a few books on the go at the moment - it makes it easier to let go of books that are not gripping me, as well as cover a few different topics</p>
+<p> This is intended as a live document to be updatedly regularly. I usually have a few books on the go at the moment - it makes it easier to let go of books that are not gripping me, as well as cover a few different topics.</p>
 
 
 <h3>Read</h3>
@@ -25,12 +25,12 @@ externalLink: false
 	<li><a href="https://www.goodreads.com/book/show/33547365-tunnel-of-love">Tunnel of Love - Football Fighting and Failure: Newcastle United After The Entertainers</a> by Martin Hardy</li>
 	<li><a href="https://www.goodreads.com/book/show/6763725-capitalist-realism">Capitalist Realism: Is There No Alternative?</a> by Mark Fisher (for the second time) </li>
 	<li><a href="https://www.goodreads.com/book/show/35684687-live-work-work-work-die">Live Work Work Work Die: A Journey into the Savage Heart of Silicon Valley</a> by Corey Pein</li>
+	<li><a href="https://www.goodreads.com/book/show/41967145-economics-for-the-many">Economics for the Many</a> by John McDonnell</li>
 </ul>
 
 <h3>Reading</h3>
 <ul class="reading">
 	<li><a href="https://www.goodreads.com/book/show/34523218-kids-these-days">Kids These Days: Human Capital and the Making of Millennials"</a> by Malcolm Harris</li>
-	<li><a href="https://www.goodreads.com/book/show/23120225-the-establishment">The Establishment: And How They Get Away With It</a> by Owen Jones</li>
 	<li><a href="https://www.goodreads.com/book/show/19936661-inverting-the-pyramid">Inverting the Pyramid: The History of Football Tactics</a> by Jonathan Wilson</li>
 	
 </ul>
