@@ -17,7 +17,7 @@ externalLink: false
 
 <h1>This is a list of books I have read (so far) in 2019 -and what I'm reading at the moment.</h1>
 
-<p> This is intended as a live document to be updatedly regularly. I usually have a few books on the go at the moment - it makes it easier to let go of books that are not gripping me, as well as cover a few different topics.</p>
+<p> This is intended as a live document to be updatedly regularly. I usually have a few books on the go - it makes it easier to let go of books that are not gripping me, as well as cover a few different topics.</p>
 
 
 <h3>Read</h3>

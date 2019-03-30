@@ -1,16 +1,15 @@
 ---
 title: "Capitalist Realism Revisited"
 layout: post
-date: 2019-03-14 22:10
+date: 2019-03-30
 tag: Books
 image:
 headerImage: false
 projects: false
-hidden: true # don't count this post in blog pagination
+hidden: true
 description:
 category: blog
 author: markpurvis
-externalLink: false
 ---
 
 <p>I read <i>Capitalist Realism</i> for the second time at the beginning of the year. The first time I read the book was shortly after I graduated from uni. I had come across references to Mark Fisher in a number of occasions, mostly from Twitter - and the length of the book meant it felt harder to justify <i>not</i> reading it (unlike the numerous books of continental philosophy that seem destined to sit in the bookcase forever). It's one of those books that feels so of its time - a time I lived through, but with no politically literacy. The impression I was left with reading the book in 2016 was one of clarity, like camera lens brought into focus. Lacking anything but a generalised anti-neoliberial disposition and a profound pessimism toward teh efficacy electoral politics, chapters on protest, education and mental health were cathartic.</p>
