@@ -1,6 +1,9 @@
 # main text of home
-name: Mark Purvis
-bio: <p><b>I work with people who run their own websites, so I decided to build my own.</b></p> <p>This website exists to keep a digital record of my accomplishments and share ongoing projects I'm working on.</p>
+name: 
+bio: <p><b>My name is Mark Purvis. I spent most of my time talking to people who run their own websites, so I decided to build my own.</b></p>
+<p> I studied international politics at Newcastle University to undergradute and graduate level. I now work in London for Ezoic.</p>
+
+<p>I'm on Twitter <a href="https://www.twitter.com/markprvs>"@ markprvs </a> - follow me here for bad tweets, such as Ayoze Perez is actually good™ and 
 
 # twitter summary info
 description: description
@@ -64,7 +67,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
