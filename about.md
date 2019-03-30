@@ -23,7 +23,7 @@ layout: page
 	<li><b>G-Suite</b> - Docs, Sheets, Slides</li>
 	<li><b>Google Analytics</b> Advanced Google Analytics certification </li>
 	<li><b>Google AdSense & Ad Manager</b> - Google Certified Publishing Partner NPM and MCM specialities, recertified February 2019</li>
-	<li><b>Zendesk</b> - 
+	<li><b>Zendesk</b></li> 
 </ul>
 
 
