@@ -15,7 +15,8 @@ layout: page
 
 <ul class="skill-list">
 	<li><b>Lead Generation</b> - Prospecting via email, LinkedIn and by phone</li>
-	<li><b>Technical Troubleshooting</b> - literacy of HTML and DNS management</li> 
+	<li><b>Technical Troubleshooting</b> - literacy of HTML and DNS management</li>
+	<li><b>Markdown</b></li>
 </ul>
 
 <h3>Tools and Platforms</h3>
