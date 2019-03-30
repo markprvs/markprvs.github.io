@@ -12,7 +12,7 @@ layout: page
 <h3>Proficiencies</h3>
 
 <ul class="skill-list">
-	<li><b>Lead Generation</b> - Prospecting via email, LinkedIn and my phone</li>
+	<li><b>Lead Generation</b> - Prospecting via email, LinkedIn and by phone</li>
 	<li><b>HTML</b> - Elementary literacy</li> 
 </ul>
 
@@ -20,7 +20,7 @@ layout: page
 <ul class="skill-list">
 	<li><b>G-Suite</b> - Docs, Sheets, Slides</li>
 	<li><b>Google Analytics</b> Advanced Google Analytics certification </li>
-	<li><b>Google AdSense</b> - Google Certified Publishing Partner NPM and MCM specialities c.2017 </li>
+	<li><b>Google AdSense</b> - Google Certified Publishing Partner NPM and MCM specialities, recertified February 2019</li>
 </ul>
 
 
