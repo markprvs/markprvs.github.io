@@ -7,7 +7,7 @@ layout: page
 
 <p> <b>I work at Ezoic, a machine learning platform digital publishers and website owners. Our technology provides users with sophisticated set of tools for improving ad monetization, site delivery, SEO, and more.</b></p>
 
-<p><b> If you are publisher or know publishers looking improve their websites, <a href="mailto:me@markprvs.com"> email</a> or <a href="https://www.twitter.com/markprvs/"> tweet me </a> - my dms are open.
+<p><b> If you are publisher or know publishers looking improve their websites, <a href="mailto:me@markprvs.com">email</a> or <a href="https://www.twitter.com/markprvs/">tweet me</a> - my dms are open.
 
 <h2><div style="text-align: center">Skills</div></h2>
 
