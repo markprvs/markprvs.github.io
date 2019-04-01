@@ -19,7 +19,7 @@ resume-url: https://google.com/?q=my+resume
 url: https://markprvs.com
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+permalink: /:markprvs/
 
 # To enable google analytics, supply your token below
 analytics-google: 'UA-128204755-3'
