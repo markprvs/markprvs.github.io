@@ -1,6 +1,6 @@
 # main text of home
 name: Mark Purvis
-bio: <p><b> Hi - My name is Mark Purvis. I work in London for a company called Ezoic</b></p><p>I spend most of my time talking to people who run their own websites, so I decided to set up my own.</p>
+bio: <p><b> Hi - My name is Mark Purvis. I work in London for a tech company called Ezoic.</b></p><p>I spend most of my time talking to people who run their own websites, so I decided to set up my own.</p>
 
 # twitter summary info
 description: description
@@ -75,7 +75,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
