@@ -31,8 +31,6 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li> This website! </li>
 	<li><a href="https://www.thelazyemployee.com/"> The Lazy Employee</a>- a professional development and self improvement blog.</li>
 	<li><a href="https://markprvs.com/books-read-in-2019/">Books I've Read in 2019</a></li>
-
 </ul>
