@@ -19,7 +19,7 @@ externalLink: false
 
 <p> I usually have a few books on the go - it makes it easier to let go of books that are not gripping me, as well as cover a few different topics.</p>
 
-<p> Always taking recommendations - tweet me or hmu at mark@markprvs.com.
+<p> Always taking recommendations - <a href="mailto:mark@markprvs.com">email</a> or <a href="https://www.twitter.com/markprvs/">tweet me</a>.
 
 
 <h3>Read</h3>
