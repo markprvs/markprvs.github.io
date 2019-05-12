@@ -36,6 +36,7 @@ externalLink: false
 <ul class="reading">
 	<li><a href="https://www.goodreads.com/book/show/25744928-deep-work">Deep Work: Rules for Focused Success in a Distracted World</a> by Cal Newport</li>
 	<li><a href="https://www.goodreads.com/book/show/19936661-inverting-the-pyramid">Inverting the Pyramid: The History of Football Tactics</a> by Jonathan Wilson</li>
+	<li><a href="https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale">The Handmaid's Tale</a> by Margaret Atwood</li>
 	
 </ul>
 
