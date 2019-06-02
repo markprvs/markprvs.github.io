@@ -14,7 +14,7 @@ layout: page
 <h3>Proficiencies</h3>
 
 <ul class="skill-list">
-	<li><b>Lead Generation</b></li>
+	<li><b>Lead Gen</b></li>
 	<li><b>Website Administration</b></li>
 	<li><b>Search Engine Optimization</b></li>
 
@@ -22,11 +22,10 @@ layout: page
 
 <h3>Tools and Platforms</h3>
 <ul class="skill-list">
-	<li><b>G-Suite</b></li>
-	<li><b>Google Analytics</b> Advanced Google Analytics certification</li>
+	<li><b>Google Analytics</b> Advanced Google Analytics Certificate</li>
 	<li><b>Google AdSense & Ad Manager</b> - Google Certified Publishing Partner NPM and MCM specialities, recertified February 2019</li>
-	<li><b>Zendesk</b></li>
-	<li><b>Wordpress</b></li>
+	<li><b>Zendesk</b> - customer success and account management </li>
+	<li><b>Wordpress</b> - bits and pieces </li>
 </ul>
 
 
