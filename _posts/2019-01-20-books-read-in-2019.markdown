@@ -31,13 +31,17 @@ externalLink: false
 	<li><a href="https://www.goodreads.com/book/show/34523218-kids-these-days">Kids These Days: Human Capital and the Making of Millennials</a> by Malcolm Harris</li>
 	<li><a href="https://www.goodreads.com/book/show/40672036-digital-minimalism">Digital Minimalism: Choosing a Focused Life in a Noisy World</a> by Cal Newport</li>
 	<li><a href="https://www.goodreads.com/book/show/25744928-deep-work">Deep Work: Rules for Focused Success in a Distracted World</a> by Cal Newport</li>
+	<li><a href="https://www.goodreads.com/book/show/22155.Let_My_People_Go_Surfing">Let My People Go Surfing: The Education of a Reluctant Businessman</a> by Yvon Chouinard</li>
+	<li><a href="https://www.goodreads.com/book/show/40121378-atomic-habits">Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones</a> by James Clear</li>
+	<li><a href="https://www.goodreads.com/book/show/40591670-i-will-teach-you-to-be-rich">I Will Teach You to Be Rich: No Guilt. No Excuses. No BS. Just a 6-Week Program That Works</a> by Ramit Sethi</li>
+	<li><a href="https://www.goodreads.com/book/show/33606119-why-i-m-no-longer-talking-to-white-people-about-race">Why I'm No Longer Talking to White People About Race</a> by Reni Eddo-Lodge</li>
 </ul>
 
 <h3>Reading</h3>
 <ul class="reading">
-	<li><a href="https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale">The Handmaid's Tale</a> by Margaret Atwood</li>
-	<li><a href="https://www.goodreads.com/book/show/22155.Let_My_People_Go_Surfing">Let My People Go Surfing: The Education of a Reluctant Businessman</a> by Yvon Chouinard</li>
-	
+	<li><a href="https://www.goodreads.com/book/show/34466963-why-we-sleep">Why We Sleep: Unlocking the Power of Sleep and Dreams</a> by Matthew Walker</li>
+	<li><a href="https://www.goodreads.com/book/show/35412097-when">When: The Scientific Secrets of Perfect Timing</a> by Daniel H. Pink</li>
+
 </ul>
 
 <h3>To Read</h3>
