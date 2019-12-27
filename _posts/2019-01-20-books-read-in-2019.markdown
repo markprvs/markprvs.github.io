@@ -35,6 +35,7 @@ externalLink: false
 	<li><a href="https://www.goodreads.com/book/show/40121378-atomic-habits">Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones</a> by James Clear</li>
 	<li><a href="https://www.goodreads.com/book/show/40591670-i-will-teach-you-to-be-rich">I Will Teach You to Be Rich: No Guilt. No Excuses. No BS. Just a 6-Week Program That Works</a> by Ramit Sethi</li>
 	<li><a href="https://www.goodreads.com/book/show/33606119-why-i-m-no-longer-talking-to-white-people-about-race">Why I'm No Longer Talking to White People About Race</a> by Reni Eddo-Lodge</li>
+	<li><a href="https://www.goodreads.com/book/show/22822858-a-little-life"> A Little Life </a> by Hanya Yanigahara</li>
 </ul>
 
 <h3>Reading</h3>
