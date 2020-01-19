@@ -21,7 +21,7 @@ externalLink: false
 
 <p> Always taking recommendations - <a href="https://www.twitter.com/markprvs/">hmu</a>.
 
-<h2>This is a list of books I read in 2020.</h2>
+<h2>This is a list of the books I have read in 2020.</h2>
 
 
 <h3>Read</h3>
@@ -30,16 +30,13 @@ externalLink: false
     <li><a href="https://www.goodreads.com/book/show/35412097-when">When: The Scientific Secrets of Perfect Timing</a> by Daniel H. Pink</li>
     <li><a href="https://www.goodreads.com/book/show/18077875-essentialism">Essentialism: The Disciplined Pursuit of Less</li> 
     <li><a href="https://www.goodreads.com/book/show/49814557-work-energy">Work Energy: Finish Everything You Start and Fearlessly Take On Any Goal</a> by Jim Harmer</li>
-    
-</ul>
+
 
 <h3>Reading</h3>
 <ul class="reading">
     <li><a href="https://www.goodreads.com/book/show/34466963-why-we-sleep">Why We Sleep: Unlocking the Power of Sleep and Dreams</a> by Matthew Walker</li>
-    <li><a href=""></li>
     <li><a href="https://www.goodreads.com/book/show/26030703-disrupted">Disrupted: My Misadventure in the Start-Up Bubble</a> by Dan Lyons</li>
     <li><a href="https://www.goodreads.com/book/show/10733801-23-things-they-don-t-tell-you-about-capitalism">23 Things They Don't Tell You About Capitalism</a> by Ha-Joon Chang</li>
-</ul>
 
 <h3>To Read</h3>
 <p>Check out my long (<i>long</i>) list <a href="//www.goodreads.com/review/list/9918109">here</a></p>
