@@ -1,5 +1,5 @@
 ---
-title: ":book: What I'm Reading in 2019"
+title: ":book: What I Read in 2019"
 layout: post
 date: 2019-01-20 22:10
 tag: Books
@@ -13,14 +13,16 @@ author: markpurvis
 externalLink: false
 ---
 
+<h1>What I Read in 2019</h1>
+
+<p>This was my first year of tracking reading, so I didn't know what to expect. I thought 12 books - 1 per month - was a reasonable goal, and in the end I exceeded this goal, reading 13. 5 self-improvement books, 4 on politics, 1 on football, 1 on business and 1 novel.</p>
+
+<p> However, this doesn't tell the whole story. the vast majority of those books were read in the first half of year, with <i> A Little Life </i> being the only book I read and finished after September. Suprising to me was that <i>A Little Life</i> was far and away my favourite and left the largest impression on me. Nevertheless, honorable mentions go to <i>Digital Minimalism</i> and <i>Atomic Habits too</i>.</p>
+
+<p>My main takeaways are that a) I'm a slow reader, especially with non-fiction, but I can consume full audiobooks in days, and b) I've read to few novels recently.So my goal next year is to read 36 books, at least 6 of those being fiction.</p>
 
 
-<h1>This is a list of books I have read (so far) in 2019 -and what I'm reading at the moment.</h1>
-
-<p>I usually have a few books on the go - it makes it easier to let go of books that are not gripping me, as well as cover a few different topics.</p>
-
-<p> Always taking recommendations - <a href="https://www.twitter.com/markprvs/">hmu</a>.
-
+<h2>This is the full list of books I read in 2019.</h2>
 
 <h3>Read</h3>
 <ul class="read">
@@ -34,16 +36,7 @@ externalLink: false
 	<li><a href="https://www.goodreads.com/book/show/22155.Let_My_People_Go_Surfing">Let My People Go Surfing: The Education of a Reluctant Businessman</a> by Yvon Chouinard</li>
 	<li><a href="https://www.goodreads.com/book/show/40121378-atomic-habits">Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones</a> by James Clear</li>
 	<li><a href="https://www.goodreads.com/book/show/40591670-i-will-teach-you-to-be-rich">I Will Teach You to Be Rich: No Guilt. No Excuses. No BS. Just a 6-Week Program That Works</a> by Ramit Sethi</li>
+	<li><a href="https://www.goodreads.com/book/show/46443010-rich-dad-poor-dad">Rich Dad Poor Dad</a> by Robert T Kiyosaki</li>
 	<li><a href="https://www.goodreads.com/book/show/33606119-why-i-m-no-longer-talking-to-white-people-about-race">Why I'm No Longer Talking to White People About Race</a> by Reni Eddo-Lodge</li>
 	<li><a href="https://www.goodreads.com/book/show/22822858-a-little-life"> A Little Life </a> by Hanya Yanigahara</li>
 </ul>
-
-<h3>Reading</h3>
-<ul class="reading">
-	<li><a href="https://www.goodreads.com/book/show/34466963-why-we-sleep">Why We Sleep: Unlocking the Power of Sleep and Dreams</a> by Matthew Walker</li>
-	<li><a href="https://www.goodreads.com/book/show/35412097-when">When: The Scientific Secrets of Perfect Timing</a> by Daniel H. Pink</li>
-
-</ul>
-
-<h3>To Read</h3>
-<p>Check out my long (<i>long</i>) list <a href="//www.goodreads.com/review/list/9918109">here</a></p>
