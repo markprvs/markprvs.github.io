@@ -5,34 +5,14 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p> <b>I work at Ezoic, a machine learning platform digital publishers and website owners. Our technology provides users with sophisticated set of tools for improving ad monetization, site delivery, SEO, and more.</b></p>
+<p> <b>I work at Ezoic, a machine learning platform digital publishers and website owners. Our technology provides users with sophisticated set of tools for improving ad monetization, site speed, SEO, and more.</b></p>
 
 <p><b> If you are publisher or know publishers looking improve their websites, <a href="mailto:me@mark-purvis.com">email</a> or <a href="https://www.twitter.com/markprvs/">tweet me</a> - my dms are open.
-
-<h2><div style="text-align: center">Skills</div></h2>
-
-<h3>Proficiencies</h3>
-
-<ul class="skill-list">
-	<li><b>Lead Gen</b></li>
-	<li><b>Website Administration</b></li>
-	<li><b>Search Engine Optimization</b></li>
-
-</ul>
-
-<h3>Tools and Platforms</h3>
-<ul class="skill-list">
-	<li><b>Google Analytics</b> Advanced Google Analytics Certificate</li>
-	<li><b>Google AdSense & Ad Manager</b> - Google Certified Publishing Partner NPM and MCM specialities, recertified February 2019</li>
-	<li><b>Zendesk</b> - customer success and account management </li>
-	<li><b>Wordpress</b> - bits and pieces </li>
-</ul>
-
 
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://www.thelazyemployee.com/"> The Lazy Employee</a>- a professional development and self-improvement blog.</li>
-	<li><a href="https://mark-purvis.com/books-read-in-2019/">Books I've Read in 2019</a></li>
+	<li>A professional development and self-improvement blog (details forthcoming).</li>
+	<li>I'm continung my annual practice of tracking my reading habits. Not only does this funnction as a helpful reference, I find tracking in this way allows me to reflect on the nature of the content I'm consuming</li>
 </ul>
