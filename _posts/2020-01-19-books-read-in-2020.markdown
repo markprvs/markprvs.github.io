@@ -28,7 +28,7 @@ externalLink: false
 <ul class="read">
     <li><a href="https://www.goodreads.com/book/show/39789318-the-people-in-the-trees">The People in the Trees</a> by Hanya Yanigahara</li>
     <li><a href="https://www.goodreads.com/book/show/35412097-when">When: The Scientific Secrets of Perfect Timing</a> by Daniel H. Pink</li>
-    <li><a href="https://www.goodreads.com/book/show/18077875-essentialism">Essentialism: The Disciplined Pursuit of Less</li> 
+    <li><a href="https://www.goodreads.com/book/show/18077875-essentialism">Essentialism: The Disciplined Pursuit of Less</a> by Greg McKeown</li> 
     <li><a href="https://www.goodreads.com/book/show/49814557-work-energy">Work Energy: Finish Everything You Start and Fearlessly Take On Any Goal</a> by Jim Harmer</li>
     <li><a href="https://www.goodreads.com/book/show/26030703-disrupted">Disrupted: My Misadventure in the Start-Up Bubble</a> by Dan Lyons</li>
 
