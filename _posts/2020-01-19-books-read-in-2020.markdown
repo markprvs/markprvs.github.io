@@ -1,7 +1,7 @@
 ---
 title: ":book: What I'm Reading in 2020"
 layout: post
-date: 2012-01-01 22:10
+date: 2020-01-01 22:10
 tag: Books
 image:
 headerImage: false
@@ -31,13 +31,20 @@ externalLink: false
     <li><a href="https://www.goodreads.com/book/show/18077875-essentialism">Essentialism: The Disciplined Pursuit of Less</a> by Greg McKeown</li> 
     <li><a href="https://www.goodreads.com/book/show/49814557-work-energy">Work Energy: Finish Everything You Start and Fearlessly Take On Any Goal</a> by Jim Harmer</li>
     <li><a href="https://www.goodreads.com/book/show/26030703-disrupted">Disrupted: My Misadventure in the Start-Up Bubble</a> by Dan Lyons</li>
+    <li><a href="https://www.goodreads.com/book/show/48109791-stolen"> Stolen: How to Save the World from Financialisation</a> by Grace Blakeley</li>
+    <li><a href="https://www.goodreads.com/book/show/33490.The_Call_of_Cthulhu_and_Other_Weird_Stories">The Call of Cthulhu and Other Weird Stories</a> by H.P. Lovecraft</li>
+    <li><a href="https://www.goodreads.com/book/show/7893968-declaration">Declaration: The Nine Tumultuous Weeks When America Became Independent, May 1-July 4, 1776</a> By William Hogeland</li>
+    <li><a href="https://www.goodreads.com/book/show/4981.Slaughterhouse_Five">Slaughterhouse Five</a> By Kurt Vonnegut</li>
+    <li><a href="https://www.goodreads.com/book/show/48760481-abolish-silicon-valley">Abolish Silicon Valley</a> by Wendy Liu</li>
+    <li><a href="https://www.goodreads.com/book/show/6372431-when-the-lights-went-out">When The Lights Went Out: Britain in the Seventies</a> by Andy Beckett</li>
+
+
 </ul>
 
 <h3>Reading</h3>
 <ul class="reading">
     <li><a href="https://www.goodreads.com/book/show/34466963-why-we-sleep">Why We Sleep: Unlocking the Power of Sleep and Dreams</a> by Matthew Walker</li>
     <li><a href="https://www.goodreads.com/book/show/10733801-23-things-they-don-t-tell-you-about-capitalism">23 Things They Don't Tell You About Capitalism</a> by Ha-Joon Chang</li>
-    <li><a href="https://www.goodreads.com/book/show/48109791-stolen"> Stolen: How to Save the World from Financialisation</a> by Grace Blakeley</li>
     <li><a href="https://www.goodreads.com/book/show/16902.Walden"> Walden</a> by Henry David Thoreau</li>
     <li><a href="https://www.goodreads.com/book/show/35209767-how-to-break-up-with-your-phone">How to Break Up with Your Phone: The 30-Day Plan to Take Back Your Life</a> by Catherine Price</li>
 </ul>
