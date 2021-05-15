@@ -8,7 +8,7 @@ description: description
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/Cropped.jpeg
+picture: assets/images/Me.jpeg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -58,7 +58,7 @@ authors:
         name: Mark Purvis
         bio: 
         external-image: false
-        picture: assets/images/Cropped.jpeg
+        picture: assets/images/Me.jpeg
         twitter: markprvs
 
 # do you want a larger site? change the option below

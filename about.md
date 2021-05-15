@@ -14,5 +14,4 @@ layout: page
 
 <ul>
 	<li>A professional development and self-improvement blog (details forthcoming).</li>
-	<li>I'm continung my annual practice of tracking my reading habits. Not only does this funnction as a helpful reference, I find tracking in this way allows me to reflect on the nature of the content I'm consuming</li>
 </ul>
