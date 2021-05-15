@@ -1,6 +1,6 @@
 # main text of home
 name: Mark Purvis
-bio: <p><b> Hi - My name is Mark. I live and work in London.</b></p><p>I spend most of my time helping people running websites</p>
+bio: <p><b> Hi - My name is Mark. I live and work in London.</b></p><p>I spend most of my time helping people running websites. Thought I'd make my own.</p>
 
 # twitter summary info
 description: description
@@ -39,7 +39,7 @@ twitter: markprvs
 # google: mygoogle
 instagram: markprvs
 # pinterest: mypinterest
-linkedin: mjpurvis
+# linkedin: mjpurvis
 # youtube: myyoutube
 spotify: 1260894284?si=XJK0n3ZuRweqSP6S22lG4Q
 # github: markprvs
